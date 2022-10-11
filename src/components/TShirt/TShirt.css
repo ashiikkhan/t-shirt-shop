@@ -1,0 +1,22 @@
+.tshirt {
+  border: 2px solid rgb(247, 247, 247);
+  padding: 1rem;
+  box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.2);
+}
+.tshirt button {
+  border: 1px solid rgb(247, 247, 247);
+  padding: 0.5rem;
+  background-color: tan;
+  cursor: pointer;
+  font-weight: 600;
+  /* color: rgba(0, 0, 0, 0.85); */
+  color: rgb(241, 241, 241);
+}
+.tshirt button:hover {
+  background-color: aquamarine;
+  color: rgba(0, 0, 0, 0.85);
+}
+.tshirt img {
+  width: 10rem;
+  height: 12rem;
+}

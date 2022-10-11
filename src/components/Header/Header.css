@@ -1,0 +1,11 @@
+.nav {
+  padding: 1rem;
+}
+.nav a {
+  font-weight: 600;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+.activeLink {
+  color: red;
+}

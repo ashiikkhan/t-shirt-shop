@@ -1,0 +1,9 @@
+.grandComp,
+.grandComp div {
+  border: 2px solid orangered;
+  margin: 1rem;
+  padding: 1rem;
+}
+.flex {
+  display: flex;
+}
